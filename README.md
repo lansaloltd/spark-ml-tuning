@@ -1,4 +1,4 @@
-SparkMl Model Tuning
+SparkML Model Tuning
 
 Example code for my post on https://lansalo.com
 
